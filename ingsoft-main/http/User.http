@@ -9,6 +9,8 @@ Content-Type: application/json
   "email": "vargas123",
   "password": "vargas@gmail.com"
 }
-###
+
+
+###Request para obtener los usuarios
 GET http://localhost:8085/user/allUsers
 Accept: application/json
